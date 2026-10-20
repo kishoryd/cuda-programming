@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "name": "CUDA",
+            "includePath": [
+                "${workspaceFolder}",
+                "/install/netboot/rocky9.6/x86_64/gpu/rootimg/usr/local/cuda-13.2/include",
+                "/usr/include/c++/11",
+                "/usr/include/c++/11/x86_64-redhat-linux",
+                "/usr/lib/gcc/x86_64-redhat-linux/11/include",
+                "/usr/include"
+            ],
+            "browse": {
+                "path": [
+                    "${workspaceFolder}",
+                    "/install/netboot/rocky9.6/x86_64/gpu/rootimg/usr/local/cuda-13.2/include"
+                ]
+            },
+            "compilerPath": "",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
